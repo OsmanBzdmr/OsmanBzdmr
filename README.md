@@ -2,7 +2,7 @@
 
 Yazılım Mühendisliği 4. sınıf öğrencisiyim. Okulda **Java** ve **C++** ile OOP temelini öğrendim; **Linux**'u günlük hayatımda ve terminalde aktif olarak kullanıyorum. Sürekli öğrenmeyi ve yeni teknolojileri keşfetmeyi seviyorum.
 
-🌐 **Portföy sitem:** [osmanbzdmr.github.io](https://osmanbzdmr.github.io/)
+
 
 ## 🛠️ Kullandığım Teknolojiler
 
